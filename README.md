@@ -12,7 +12,7 @@ Estudiante en ingenieria en sistemas en la UTN (*Universidad Tecnológica Nacion
 * 21 años
 * Buenos aires, Argentina
 * Contacto: fabricio.balino@gmail.com
-* ~~Porfavor contratentme quiero dolares~~
+* ~~Porfavor contrátenme quiero dolares~~
 
 >Si puedes imaginarlo puedes programarlo.
 >- Alejandro Sánchez, Programación ATS
