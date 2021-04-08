@@ -9,10 +9,10 @@ Esta tarea consiste simplemente en editar este archivo agregando tu nombre y ape
 # Descripcion
 Estudiante en ingenieria en sistemas en la UTN (*Universidad Tecnológica Nacional*)
 
-*21 años
-*Buenos aires, Argentina
-*Contacto: fabricio.balino@gmail.com
-*~~Porfavor contratentme quiero dolares~~
+* 21 años
+* Buenos aires, Argentina
+* Contacto: fabricio.balino@gmail.com
+* ~~Porfavor contratentme quiero dolares~~
 
 >Si puedes imaginarlo puedes programarlo.
 >- Alejandro Sánchez, Programación ATS
