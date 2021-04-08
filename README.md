@@ -1,5 +1,5 @@
-# Presentación
+# Estudiante
+Nombre y apellido: Fabricio Baliño
 
-## Estudiante: _Fabricio Baliño_
-
-Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vTNHQ5dzaVFhKPd4UxLOGhZa9Ix_bDgpyIftq4gqzz7674dHmHkcH2oH9TpQ_TsghZkiSPBoUm2ftzM/pub).
+# Tarea
+Esta tarea consiste simplemente en editar este archivo agregando tu nombre y apellido en la seccion anterior.
